@@ -14,10 +14,10 @@
         android:text="normal_notification" />
 
     <Button
-        android:id="@+id/btn_set_channel_vibrate_and_sound"
+        android:id="@+id/btn_recreate_channel"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="给channel设置振动和声音"/>
+        android:text="重新创建channel，并允许振动"/>
 
     <Button
         android:id="@+id/btn_set_channel_silent"
